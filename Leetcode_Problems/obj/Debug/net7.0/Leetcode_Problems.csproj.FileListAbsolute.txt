@@ -1,0 +1,15 @@
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/bin/Debug/net7.0/Leetcode_Problems
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/bin/Debug/net7.0/Leetcode_Problems.deps.json
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/bin/Debug/net7.0/Leetcode_Problems.runtimeconfig.json
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/bin/Debug/net7.0/Leetcode_Problems.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/bin/Debug/net7.0/Leetcode_Problems.pdb
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.csproj.AssemblyReference.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.AssemblyInfoInputs.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.AssemblyInfo.cs
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.csproj.CoreCompileInputs.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/refint/Leetcode_Problems.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.pdb
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/Leetcode_Problems.genruntimeconfig.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/Leetcode_Problems/obj/Debug/net7.0/ref/Leetcode_Problems.dll
